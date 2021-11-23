@@ -13,3 +13,5 @@ http://0.0.0.0:5004/api/process_data
 status 200: Successful output with computed results.
 status 400: wrong input or program failed to run
 
+use Python 3.x to run the program
+
