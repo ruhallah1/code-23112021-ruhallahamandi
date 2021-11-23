@@ -16,4 +16,4 @@ status 400: wrong input or program failed to run
 use Python 3.x to run the program
 
 #for windows users
-standalone application accessible through dist folder
+standalone service accessible through dist folder
